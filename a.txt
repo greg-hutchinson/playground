@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 This is a.txt - reanne
 also by Reanne
+=======
+This is a.txt Ally
+
+This was by Ally
+>>>>>>> master
